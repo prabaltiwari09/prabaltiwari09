@@ -1,9 +1,9 @@
 
 ## 🚀 About Me
 - 👋 Hi, I’m @prabaltiwari09
-- 👀 I’m interested in creating APIs and observing patterns in data
-- 🌱 I’m currently learning Node.js and Spring-Boot
-- 💞️ I’m looking to collaborate on Node.js, Spring-Boot
+- 👀 I’m interested in scalable, robust, and secure backend systems
+- 🌱 I’m currently learning about Web 3.0
+- 💞️ I’m looking to collaborate on backend codebases that are on Java or JS
 - 📫 How to reach me, links are given below
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabaltiwari/)
